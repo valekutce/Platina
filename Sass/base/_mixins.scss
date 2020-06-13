@@ -1,0 +1,15 @@
+@mixin button {
+    width: 334px;
+    height: 75px;
+    border: none;
+    border-radius: 50px;
+    /* Style for "Read More" */
+    color: #ffffff;
+    font-size: 29px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "Read More" */
+    letter-spacing: 14.59px;
+    cursor: pointer;
+    transition: .3s;
+}
