@@ -715,6 +715,19 @@ blockquote:before {
     max-width: 95%;
   }
 }
+@media only screen and (max-width: 667px) and (height: 375px) {
+  .Discount__button button {
+    width: 100%;
+  }
+
+  .explore__title h2 {
+    font-size: 70px;
+  }
+
+  .here__Subscribe [type=submit] {
+    margin-left: -101px;
+  }
+}
 @media only screen and (max-width: 576px) {
   .header {
     background: url(../img/promo/4-layers.jpg) no-repeat left -19px;
