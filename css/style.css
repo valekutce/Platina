@@ -386,10 +386,10 @@ blockquote:before {
 
 .here {
   width: 100%;
-  min-height: 800px;
+  min-height: 700px;
   background: url(../img/Here/3-layers.jpg) no-repeat center center;
   background-size: cover;
-  padding: 230px 30px 200px;
+  padding: 135px 30px 200px;
 }
 .here__block {
   width: 890px;
@@ -401,7 +401,7 @@ blockquote:before {
   color: #ffffff;
   font-size: 4.68rem;
   font-weight: 700;
-  margin-bottom: 70px;
+  margin-bottom: 0px;
   text-transform: capitalize;
 }
 .here__text {
